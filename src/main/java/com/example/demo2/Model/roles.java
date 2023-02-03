@@ -12,7 +12,7 @@ import lombok.Setter;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class todo {
+public class roles {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id ;
